@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/anonymous747306" target="blank"><img src="https://img.shields.io/twitter/follow/anonymous747306?logo=twitter&style=for-the-badge" alt="anonymous747306" /></a> </p>
 
-- 🔭 I’m currently working on [Chat App](https://github.com/Daufm/chat-apps)
+- 🔭 I’m currently working on [Blogging Platform ](https://github.com/Daufm/Blogging-Platform)
 
 - 🌱 I’m currently learning **Computer Science at University of Gondar**
 
