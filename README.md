@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daufm&label=Profile%20views&color=0e75b6&style=flat" alt="daufm" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on ![Blogging Platform](https://github.com/Daufm/Blogging-Platform)<br><br>🌱 I’m currently learning Computer Science at University of Gondar<br><br>👨‍💻 All of my projects are available at https://warm-sherbet-5c63f7.netlify.app/<br><br>
+🔭 I’m currently Learning Typescript <br><br>🌱 I’m currently learning Computer Science at University of Gondar<br><br>👨‍💻 All of my projects are available at https://warm-sherbet-5c63f7.netlify.app/<br><br>
 
 
 ## 🌐 Socials:
