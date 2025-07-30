@@ -28,7 +28,7 @@
 
 ## ⚡️ Tech & Interests
 
-- **Programming:** Python, Java, C/C++
+- **Programming:** Python, Javascript, C++
 - **Cybersecurity:** Ethical hacking, CTFs, web hacking
 - **Interests:** Open-source, Linux, automation, cloud, coding
 
