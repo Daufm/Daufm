@@ -1,25 +1,44 @@
-# 👋 Hi, I'm Fuad!
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/111403689?v=4" width="120" style="border-radius:50%;" alt="Fuad's Avatar"/>
+</p>
 
-I'm a passionate Computer Science student and a cyber lover, always eager to learn and explore new technologies. I enjoy building projects, solving problems, and diving deep into the world of cybersecurity.
+<h1 align="center">👋 Hi, I'm Fuad!</h1>
+
+<p align="center">
+  <em>
+    Computer Science student • Cybersecurity Enthusiast • Lifelong Learner
+  </em>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/Daufm/Daufm?color=blue&style=flat-square" alt="Top Language"/>
+  <img src="https://komarev.com/ghpvc/?username=Daufm&label=Profile+views&color=blue&style=flat-square" alt="Profile Views"/>
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science student  
-- 🛡 Cybersecurity enthusiast  
+- 🛡️ Cybersecurity enthusiast  
 - 💡 Always curious about how things work  
 - 💻 Love coding, hacking, and tinkering
 
-## ⚡️ Technologies & Interests
+## ⚡️ Tech & Interests
 
-- Programming: Python, Java, C/C++
-- Cybersecurity: Ethical hacking, CTFs, web hacking
-- Interests: Open-source, Linux, automation, cloud, coding
+- **Programming:** Python, Java, C/C++
+- **Cybersecurity:** Ethical hacking, CTFs, web hacking
+- **Interests:** Open-source, Linux, automation, cloud, coding
 
-## 📫 Let's Connect!
+## 📫 Connect with Me
 
-- GitHub: [Daufm](https://github.com/Daufm)
-- Email: [fuadmohammed368@gmail.com]
+- <img src="https://img.icons8.com/ios-filled/20/000000/github.png"/> [GitHub](https://github.com/Daufm)
+- <img src="https://img.icons8.com/ios-filled/20/000000/email.png"/> [fuadmohammed368@gmail.com](mailto:fuadmohammed368@gmail.com)
 
 ---
 
-*“Stay curious, keep learning, and keep building!”*
+<p align="center">
+  <b><em>“Stay curious, keep learning, and keep building!”</em></b>
+</p>
