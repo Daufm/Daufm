@@ -12,13 +12,12 @@ I'm a passionate Computer Science student and a cyber lover, always eager to lea
 ## ⚡ Technologies & Interests
 
 - Programming: Python, Java, C/C++
-- Cybersecurity: Ethical hacking, CTFs, network security
-- Interests: Open-source, Linux, automation, cloud
+- Cybersecurity: Ethical hacking, CTFs, web hacking
+- Interests: Open-source, Linux, automation, cloud, coding
 
 ## 📫 Let's Connect!
 
 - GitHub: [Daufm](https://github.com/Daufm)
-- LinkedIn: [Your LinkedIn URL]
 - Email: [fuadmohammed368@gmail.com]
 
 ---
