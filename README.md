@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/111403689?v=4" width="120" style="border-radius:50%;" alt="Fuad's Avatar"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dhappy%2Bemoji&psig=AOvVaw0QJnAyDIhiaLb5T41myDSm&ust=1753971408694000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICAiozj5I4DFQAAAAAdAAAAABAE" width="120" style="border-radius:50%;" alt="Fuad's Avatar"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Fuad!</h1>
