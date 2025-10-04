@@ -4,7 +4,7 @@
   
 
 ### <div align="center">Hello World!, I'm Fuad 👋 </div> 
-## MAbout ME
+## About ME
   Always eager to learn how things work and find creative solutions.
  
   
@@ -120,9 +120,6 @@
 
   
 
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
