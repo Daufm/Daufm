@@ -4,8 +4,8 @@
   
 
 ### <div align="center">Hello World!, I'm Fuad 👋
-                   💫 About Me
-Always eager to learn how things work and find creative solutions.
+                ##💫 About Me
+  Always eager to learn how things work and find creative solutions.
 </div>  
   
 
