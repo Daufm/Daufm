@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="center" style="width: 150, hieght:150" />
-</div>  
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="width: 150px; height: 150px;" />
+</div>
   
 
 ### <div align="center">Hello World!, I'm Fuad 👋
@@ -117,7 +117,7 @@ Always eager to learn how things work and find creative solutions.
 <br/>  
 
 
-## Recent Blog Posts  
+
   
 
 <br/>  
