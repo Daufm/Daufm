@@ -111,10 +111,18 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Daufm&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Daufm&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daufm&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Daufm&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
 
 
 
@@ -128,10 +136,3 @@
 </div>  
   
 
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
