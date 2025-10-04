@@ -3,10 +3,10 @@
 </div>
   
 
-### <div align="center">Hello World!, I'm Fuad 👋
-                ##💫 About Me
+### <div align="center">Hello World!, I'm Fuad 👋 </div> 
+     ##💫 About Me
   Always eager to learn how things work and find creative solutions.
-</div>  
+ 
   
 
 - 🎓 Computer Science Graduate :   Passionate about exploring the depths of technology and programming.
