@@ -87,10 +87,10 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://twitter.com/https://x.com/FuadMohamm41503" target="_blank">
+<a href="https://x.com/FuadMohamm41503" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/https://dev.to/fuad_mohammed_13632845614" target="_blank">
+<a href="https://dev.to/fuad_mohammed_13632845614" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/fuad-mohammed-a7137a388" target="_blank">
